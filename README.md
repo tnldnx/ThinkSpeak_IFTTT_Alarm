@@ -51,7 +51,8 @@ Field 1에는 가변저항값을, Field 2에는 LED의 ON/OFF 상태를 저장.
 
 ### ThingSpeak 채널 모니터링 결과
 
-<img src="https://github.com/user-attachments/assets/0ffab2d8-6d31-40f0-b911-302db1b04ead" width="700" alt="ThingSpeak 채널 그래프">
+<img width="583" height="396" alt="스크린샷 2026-11-26 022021" src="https://github.com/user-attachments/assets/d08d5100-24ca-42aa-a88f-30b738d36de3" />
+
 
 Field 1에 기록된 값 `900`을 그래프와 게이지에서 확인.
 
@@ -135,7 +136,8 @@ ThingSpeak의 **Apps → React**에서 가변저항값이 특정 임계치를 �
 
 ### React 설정 화면
 
-<img src="https://github.com/user-attachments/assets/0938874b-d007-4f25-b4ba-ffc413c7b5df" width="500" alt="React 설정 화면">
+<img width="309" height="398" alt="image" src="https://github.com/user-attachments/assets/9923be90-d38c-4154-9fc9-eaa26054cba8" />
+
 
 ## 7. API Request 테스트
 
@@ -178,7 +180,7 @@ Field 2에는 LED 상태값 `1`을 전송하여 LED ON 상태를 기록.
 가변저항값이 임계치 `800`을 초과하는 경우, React와 ThingHTTP를 통해 IFTTT 알림을 전송하도록 구성.
 
 
-<img src="https://github.com/user-attachments/assets/51e2ea4d-df0a-4877-854f-393cd949de1e" width="350" alt="IFTTT 스마트폰 알림 수신 화면">
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/9a2eaf98-aad7-4254-975f-aa90412682fd" />
 
 ## 9. 실습 결과 및 느낀 점
 
